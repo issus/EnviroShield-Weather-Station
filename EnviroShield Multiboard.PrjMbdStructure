@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=EnviroShield Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=Daughterboard\Environmental Sensor Shield.PrjPcb
+Record=SubProject|SourceDocument=EnviroShield Multiboard.MbsDoc|ProjectPath=Daughterboard\Environmental Sensor Shield.PrjPcb
+Record=DiagramHierarchy|SourceDocument=EnviroShield Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=MB1360C\MB1360.PrjPcb
+Record=SubProject|SourceDocument=EnviroShield Multiboard.MbsDoc|ProjectPath=MB1360C\MB1360.PrjPcb
